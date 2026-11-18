@@ -1,8 +1,13 @@
 <a href="https://axelpolo.pe"><img src="assets/portada.webp" width="100%" alt="AXEL PL, número 1. Hecho en Trujillo, Perú. Tu negocio necesita su propia historia. En este número: webs, videos, carruseles y software."></a>
 
+<img src="assets/autor.webp" align="right" width="240" alt="Axel Polo en su cuarto, frente a la repisa con sus figuras de colección.">
+
 **Editorial.** Soy Axel Polo, de Trujillo, y estudio Sistemas e IA en la UPAO. Desde octubre de 2026 trabajo por mi cuenta con negocios de la ciudad: webs, videos, carruseles y sistemas. Este perfil es el número 1 de mi revista. Adentro va lo que ya salió.
 
 [axelpolo.pe](https://axelpolo.pe) · [WhatsApp](https://wa.me/51960561541) · [Instagram](https://www.instagram.com/axxl.pl)
+
+<sub><i>En la foto: el autor, en su cuarto de Trujillo, donde se arma cada número.</i></sub>
+<br clear="right">
 
 <br>
 
